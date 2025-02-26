@@ -1,6 +1,7 @@
-# React + Vite
+# React + Vite + TailWindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App feito para treinar os conhecimentos de React, TailWindCSS, Vite / VitePWA e openDB
+Aplicativo instalável e executável OFFLINE
 
 Currently, two official plugins are available:
 
